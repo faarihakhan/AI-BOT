@@ -12,7 +12,7 @@ it takes microphone input from the user and returns string output
 
 **If your computer giving through a pyaudio port error** so simply use this command for solving error:
   >pip install pipwin
-  >pipwin install pyaudio
+  >>pipwin install pyaudio
 
 import **wikipedia** for installation simply write on command prompt/terminal:
 >pip install wikipedia
